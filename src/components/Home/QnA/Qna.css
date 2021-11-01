@@ -1,0 +1,30 @@
+.qnaTitle{
+    color: rgb(16, 31, 70);
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.qnaSection{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+}
+
+
+
+.text{
+    text-align:left
+}
+.singlediv{
+    border: 2px solid blue;
+    padding: 10px;
+    margin: 5px;
+}
+
+
+@media screen and (max-width: 480px) {
+    .qnaSection{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+    }
+    
+}

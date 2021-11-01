@@ -1,0 +1,18 @@
+.myOrder{
+    display: flex;
+   border: 1px solid blue;
+   margin: 10px ;
+   padding: 5px;
+
+
+   
+}
+
+.text {
+text-align: center;
+border: 2px solid blue;
+
+
+   
+
+}

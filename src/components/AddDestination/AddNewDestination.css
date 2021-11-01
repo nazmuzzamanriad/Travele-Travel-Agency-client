@@ -1,0 +1,18 @@
+.formTitle{
+    color: rgb(16, 31, 70);
+    font-size: 48px;
+    font-weight: 900;
+}
+.addForm{
+    margin-bottom: 50px;
+}
+
+.addForm form input,textarea{
+    width: 40%;
+    margin: 10px;
+    
+    
+  
+
+}
+
