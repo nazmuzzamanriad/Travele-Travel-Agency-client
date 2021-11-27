@@ -14,7 +14,7 @@ https://travele-b7ab5.web.app/home
 https://github.com/nazmuzzamanriad/Travele-Travel-Agency-client
 
 
-# Client server side link
+# server side link
 https://github.com/nazmuzzamanriad/Travele-Travel-Agency-server
 
 
