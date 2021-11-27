@@ -7,11 +7,16 @@
 6. Login authentication is available
 7. Private Route is also available
 
-# Client server side link
- https://github.com/programming-hero-web-course1/tourism-or-delivery-website-server-side-nazmuzzamanriad
-
 # Live site link
 https://travele-b7ab5.web.app/home
+
+# Client side link
+https://github.com/nazmuzzamanriad/Travele-Travel-Agency-client
+
+
+# Client server side link
+https://github.com/nazmuzzamanriad/Travele-Travel-Agency-server
+
 
 
 
