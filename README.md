@@ -1,4 +1,10 @@
 # Travele Travel Agency
+  Main features
+  •	The User can show the destination where they want to travel
+  •	Users have to login or sign up for see the details information and confirm for booking their tour.
+  •	Users also cancel their booking if they want
+  
+# Project overview 
 1. Header has navigation bar to navigate
 2. The user will get a great experience when use this website
 3. Mobile friendle websites
